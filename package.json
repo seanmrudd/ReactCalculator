@@ -1,0 +1,23 @@
+{
+  "name": "reactcalculator",
+  "version": "1.0.0",
+  "description": "React Calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seanmrudd/ReactCalculator.git"
+  },
+  "author": "Sean Rudd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seanmrudd/ReactCalculator/issues"
+  },
+  "homepage": "https://github.com/seanmrudd/ReactCalculator#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "react": "^18.1.0"
+  }
+}
